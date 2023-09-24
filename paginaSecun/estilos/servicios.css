@@ -1,0 +1,21 @@
+.container{
+
+    background-color: rgb(29, 24, 21);
+}
+
+ h1 {
+
+    text-align:center ;
+    text-decoration-line:underline;
+    color:azure;
+    background-color: rgb(14, 5, 23);
+ }
+
+h2{
+    text-align: center;
+}
+
+.card:hover {
+    background-color:rgb(87, 82, 82);
+    transform: scale(1.4);
+  }
